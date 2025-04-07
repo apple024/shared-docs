@@ -1,0 +1,23 @@
+[
+  [
+    { "token": "US", "start": 0, "stop": 400 },
+    { "token": "stocks", "start": 400, "stop": 720 },
+    { "token": "tumbled", "start": 720, "stop": 1160 },
+    { "token": "for", "start": 1160, "stop": 1400 },
+    { "token": "a", "start": 1400, "stop": 1560 },
+    { "token": "third", "start": 1560, "stop": 1780 },
+    { "token": "straight", "start": 1780, "stop": 2100 },
+    { "token": "day", "start": 2100, "stop": 2280 },
+    { "token": "Monday,", "start": 2280, "stop": 2620 }
+  ],
+  [
+    { "token": "and", "start": 3040, "stop": 3140 },
+    { "token": "the", "start": 3140, "stop": 3260 },
+    { "token": "SNP", "start": 3260, "stop": 3740 },
+    { "token": "500", "start": 3740, "stop": 4280 },
+    { "token": "entered", "start": 4280, "stop": 4660 },
+    { "token": "bear", "start": 4660, "stop": 4860 },
+    { "token": "market", "start": 4860, "stop": 5220 },
+    { "token": "territory.", "start": 5220, "stop": 5820 }
+  ]
+]
